@@ -1,6 +1,8 @@
-#Live Link\
+## Live Link\
 https://zacharyjohn1.github.io/ReactPortfolio/
 
+## Credit\
+Followed along with this video - https://www.youtube.com/watch?v=x7mwVn2z3Sk&t=2740s
 
 # Getting Started with Create React App
 
