@@ -5,7 +5,10 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialmedia'>
-            <LinkedIn />
+        <a href="https://www.linkedin.com/in/zachary-schroeder-513852112/" target='_blank'>
+        <LinkedIn />
+        </a>
+            
             <GitHub />
             <Email />
         </div>

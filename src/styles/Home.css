@@ -1,25 +1,3 @@
-.home {
-    width: 100%;
-    align-items: center;
-    font-family: "Arial", sans-serif;
-    color: #3e497a;
-  }
-  
-  .skills h1 {
-    color: #3e497a;
-  }
-  .skills .list {
-  list-style: none;
-  width: 50%;
+h1{
+    font-size: 45px;
 }
-.about {
-    width: 100%;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    background-color: #21325e;
-    color: #f0f0f0;
-  }
